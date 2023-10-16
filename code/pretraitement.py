@@ -108,3 +108,15 @@ def prepare_data(config):
     '''
     
     return max_depth, n_trees, min_samples_split, X_train, X_test, y_train, y_test, x_test, y, seuil, modele, predictions, matrice
+
+
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
