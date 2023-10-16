@@ -1,0 +1,22 @@
+DATA:
+
+    FILE_PATH: 'data/data.csv'
+    TRAIN_DATA: 'data/train.csv'
+    TEST_DATA: 'data/test.csv'
+    
+
+MODELE:
+
+    TEST_SIZE: 0.25
+    DEPH: 15
+    TREES: 127
+    MIN_SPLIT: 2
+    SEUIL: 0.5
+    MODELE: 'output/modele.pickle'
+    
+    
+
+OUTPUT:
+
+    PREDICTIONS: 'output/predictions.csv'
+    MATRICE: 'output/confusion_matrix.csv'
