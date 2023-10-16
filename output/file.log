@@ -232,3 +232,8 @@
 2023-10-16 14:51:49,448 - root - INFO - Fin de l'apprentissage
 2023-10-16 14:51:49,449 - root - INFO - Prédictions
 2023-10-16 14:51:49,992 - root - INFO - FIN
+2023-10-16 15:27:45,145 - pretraitement - INFO - Chargement des données
+2023-10-16 15:27:45,189 - root - INFO - Debut de l'apprentissage
+2023-10-16 15:27:49,976 - root - INFO - Fin de l'apprentissage
+2023-10-16 15:27:49,977 - root - INFO - Prédictions
+2023-10-16 15:27:50,558 - root - INFO - FIN
