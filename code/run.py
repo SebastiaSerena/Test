@@ -64,6 +64,7 @@ if __name__ == "__main__":
         
     max_depth, n_trees, min_samples_split, X_train, X_test, y_train, y_test, x_test, y, seuil, modele, predictions, matrice = prepa.prepare_data(config)
     
+    
     if arguments.train:
         
         logger.info(f"Debut de l'apprentissage")

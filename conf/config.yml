@@ -3,7 +3,8 @@ DATA:
     FILE_PATH: 'data/data.csv'
     TRAIN_DATA: 'data/train.csv'
     TEST_DATA: 'data/test.csv'
-    
+ 
+ 
 
 MODELE:
 
