@@ -1,6 +1,6 @@
 # Test_DS
 
-[Lien GitLab](https://github.com/SebastiaSerena/Test)
+[Lien GitHub](https://github.com/SebastiaSerena/Test)
 
 
 ## Description du programme
